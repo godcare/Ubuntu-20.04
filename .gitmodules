@@ -1,0 +1,3 @@
+[submodule "examples/hello"]
+	path = examples/hello
+	url = https://github.com/godcare/Ubuntu-20.04.git
